@@ -1,0 +1,62 @@
+{
+  "siswa": [
+    {
+      "id": 3,
+      "nama": "elisa",
+      "kelas": 8
+    },
+    {
+      "nama": "budi",
+      "kelas": "2",
+      "id": 4
+    },
+    {
+      "nama": "Ferdinand",
+      "kelas": "3",
+      "id": 5
+    },
+    {
+      "nama": "Agnes",
+      "kelas": "5",
+      "id": 6
+    },
+    {
+      "nama": "baba",
+      "kelas": "1",
+      "id": 7
+    },
+    {
+      "nama": "sisi",
+      "kelas": "3",
+      "id": 8
+    },
+    {
+      "nama": "yoga",
+      "kelas": "34",
+      "id": 9
+    },
+    {
+      "nama": "megumin",
+      "kelas": "28",
+      "id": 11
+    }
+  ],
+  
+  "guru": [
+    {
+      "nama": "didi",
+      "jurusan": "electronika",
+      "id": 1
+    },
+    {
+      "nama": "win",
+      "jurusan": "tataboga",
+      "id": 2
+    },
+    {
+      "nama": "eruru",
+      "jurusan": "IT",
+      "id": 3
+    }
+  ]
+}
